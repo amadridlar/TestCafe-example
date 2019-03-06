@@ -1,0 +1,19 @@
+{
+  "name": "testcafe-example",
+  "version": "1.0.0",
+  "description": "e2e test with testcafe js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadridlar/TestCafe-example.git"
+  },
+  "author": "amadridlar",
+  "bugs": {
+    "url": "https://github.com/amadridlar/TestCafe-example/issues"
+  },
+  "homepage": "https://github.com/amadridlar/TestCafe-example#readme",
+  "devDependencies": {
+    "testcafe": "1.1.0"
+  }
+}
